@@ -56,3 +56,8 @@ color:#00FF00;
 color:#00FF00;
 bg_color:#ccc;
 radius:55,5,5,45;"
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0
